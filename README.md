@@ -2,7 +2,11 @@
 
 Aplikasi produktivitas untuk melawan kebiasaan menunda pekerjaan, dengan aturan One Task at a Time: pengguna hanya fokus pada satu tugas aktif. Tersedia sebagai aplikasi web dan aplikasi Android native, dengan alarm yang tetap berbunyi meski aplikasi ditutup.
 
-<img src="screen">
+<p align=center>
+  <img src="screensho_app/Screenshot2026-11-15162508(1).png" width="500" >
+  <img src="screensho_app/Screenshot2026-11-15162508(2).png" width="500" >
+  <img src="screensho_app/Screenshot2026-11-15162508(3).png" width="500" >
+</p>
 
 ## Fitur
 
